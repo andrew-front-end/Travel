@@ -653,8 +653,8 @@ img {
     box-shadow: none;
   }
 
-  .places__card-pic_size_lg,
-  .places__card-pic_size_sm {
+  .places__card_size_lg,
+  .places__card_size_sm {
     grid-column: span 6;
   }
 
